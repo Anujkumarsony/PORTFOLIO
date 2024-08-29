@@ -9,6 +9,14 @@
   },
   {
     "key": 2,
+    "title": "React Animated Portfolio",
+    "imageSrc": "https://d3vpszern3jgjo.cloudfront.net/wp-content/uploads/2021/02/Best-free-portfolio-webiste-3.jpg",
+    "description": "This is a project made with complete React .",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Anujkumarsony"
+  },
+  {
+    "key": 3,
     "title": "Rock paper scissors game",
     "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hPhzeFD3htF7ly1AMmAVbw.png",
     "description": "This is a project made with HTML CSS and JavaScript.",
