@@ -1,0 +1,16 @@
+[
+  
+  {
+    "id": 1,
+    "role": "Front-End Development Engineer - Intern",
+    "organisation": "Technobuds",
+    "startDate": "jun, 2024",
+    "endDate": "July, 2024",
+    "location": "Noida, India",
+    "experiences": [
+      "Built responsive web apps using HTML, CSS, JS, React, Vue.js.",
+      "Collaborated with designers, and participated in Agile processes"
+    ],
+    "imageSrc": "company/TEchnobuds-1.png"
+  }
+]
